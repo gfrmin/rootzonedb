@@ -16,5 +16,4 @@ class ZonedbSpider(scrapy.Spider):
             textkeys = ['domain', 'type', 'tldmanager']
             item = dict(zip(textkeys, texts))
             item['domainpage'] = domainpage
-            item['timestamp'] = datetime.datetime.utcnow().isoformat()
             yield item
