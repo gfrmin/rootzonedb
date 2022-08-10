@@ -1231,7 +1231,7 @@
 {"domain":".target","type":"generic","tldmanager":"Target Domain Holdings, LLC","domainpage":"https://www.iana.org/domains/root/db/target.html"}
 {"domain":".tatamotors","type":"generic","tldmanager":"Tata Motors Ltd","domainpage":"https://www.iana.org/domains/root/db/tatamotors.html"}
 {"domain":".tatar","type":"generic","tldmanager":"Limited Liability Company \"Coordination Center of Regional Domain of Tatarstan Republic\"","domainpage":"https://www.iana.org/domains/root/db/tatar.html"}
-{"domain":".tattoo","type":"generic","tldmanager":"Top Level Design, LLC","domainpage":"https://www.iana.org/domains/root/db/tattoo.html"}
+{"domain":".tattoo","type":"generic","tldmanager":"UNR Corp.","domainpage":"https://www.iana.org/domains/root/db/tattoo.html"}
 {"domain":".tax","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/tax.html"}
 {"domain":".taxi","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/taxi.html"}
 {"domain":".tc","type":"country-code","tldmanager":"Melrex TC","domainpage":"https://www.iana.org/domains/root/db/tc.html"}
