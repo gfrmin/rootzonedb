@@ -1424,11 +1424,11 @@
 {"domain":".zw","type":"country-code","tldmanager":"Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)","domainpage":"https://www.iana.org/domains/root/db/zw.html"}
 {"domain":".δοκιμή","type":"test","tldmanager":"Internet Assigned Numbers Authority","domainpage":"https://www.iana.org/domains/root/db/xn--jxalpdlp.html"}
 {"domain":".ελ","type":"country-code","tldmanager":"ICS-FORTH GR","domainpage":"https://www.iana.org/domains/root/db/xn--qxam.html"}
-{"domain":".ευ","type":"country-code","tldmanager":"EURid vzw","domainpage":"https://www.iana.org/domains/root/db/xn--qxa6a.html"}
+{"domain":".ευ","type":"country-code","tldmanager":"EURid vzw/asbl","domainpage":"https://www.iana.org/domains/root/db/xn--qxa6a.html"}
 {"domain":".бг","type":"country-code","tldmanager":"Imena.BG AD","domainpage":"https://www.iana.org/domains/root/db/xn--90ae.html"}
 {"domain":".бел","type":"country-code","tldmanager":"Belarusian Cloud Technologies LLC","domainpage":"https://www.iana.org/domains/root/db/xn--90ais.html"}
 {"domain":".дети","type":"generic","tldmanager":"The Foundation for Network Initiatives “The Smart Internet”","domainpage":"https://www.iana.org/domains/root/db/xn--d1acj3b.html"}
-{"domain":".ею","type":"country-code","tldmanager":"EURid vzw","domainpage":"https://www.iana.org/domains/root/db/xn--e1a4c.html"}
+{"domain":".ею","type":"country-code","tldmanager":"EURid vzw/asbl","domainpage":"https://www.iana.org/domains/root/db/xn--e1a4c.html"}
 {"domain":".испытание","type":"test","tldmanager":"Internet Assigned Numbers Authority","domainpage":"https://www.iana.org/domains/root/db/xn--80akhbyknj4f.html"}
 {"domain":".католик","type":"generic","tldmanager":"Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)","domainpage":"https://www.iana.org/domains/root/db/xn--80aqecdr1a.html"}
 {"domain":".ком","type":"generic","tldmanager":"VeriSign Sarl","domainpage":"https://www.iana.org/domains/root/db/xn--j1aef.html"}
