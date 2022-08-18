@@ -1089,7 +1089,7 @@
 {"domain":".saarland","type":"generic","tldmanager":"dotSaarland GmbH","domainpage":"https://www.iana.org/domains/root/db/saarland.html"}
 {"domain":".safe","type":"generic","tldmanager":"Amazon Registry Services, Inc.","domainpage":"https://www.iana.org/domains/root/db/safe.html"}
 {"domain":".safety","type":"generic","tldmanager":"Safety Registry Services, LLC.","domainpage":"https://www.iana.org/domains/root/db/safety.html"}
-{"domain":".sakura","type":"generic","tldmanager":"SAKURA Internet Inc.","domainpage":"https://www.iana.org/domains/root/db/sakura.html"}
+{"domain":".sakura","type":"generic","tldmanager":"SAKURA internet Inc.","domainpage":"https://www.iana.org/domains/root/db/sakura.html"}
 {"domain":".sale","type":"generic","tldmanager":"Dog Beach, LLC","domainpage":"https://www.iana.org/domains/root/db/sale.html"}
 {"domain":".salon","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/salon.html"}
 {"domain":".samsclub","type":"generic","tldmanager":"Wal-Mart Stores, Inc.","domainpage":"https://www.iana.org/domains/root/db/samsclub.html"}
