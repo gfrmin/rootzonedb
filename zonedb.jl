@@ -243,7 +243,7 @@
 {"domain":".ch","type":"country-code","tldmanager":"SWITCH The Swiss Education & Research Network","domainpage":"https://www.iana.org/domains/root/db/ch.html"}
 {"domain":".chanel","type":"generic","tldmanager":"Chanel International B.V.","domainpage":"https://www.iana.org/domains/root/db/chanel.html"}
 {"domain":".channel","type":"generic","tldmanager":"Charleston Road Registry Inc.","domainpage":"https://www.iana.org/domains/root/db/channel.html"}
-{"domain":".charity","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/charity.html"}
+{"domain":".charity","type":"generic","tldmanager":"Public Interest Registry (PIR)","domainpage":"https://www.iana.org/domains/root/db/charity.html"}
 {"domain":".chase","type":"generic","tldmanager":"JPMorgan Chase Bank, National Association","domainpage":"https://www.iana.org/domains/root/db/chase.html"}
 {"domain":".chat","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/chat.html"}
 {"domain":".cheap","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/cheap.html"}
@@ -470,7 +470,7 @@
 {"domain":".forex","type":"generic","tldmanager":"Dog Beach, LLC","domainpage":"https://www.iana.org/domains/root/db/forex.html"}
 {"domain":".forsale","type":"generic","tldmanager":"Dog Beach, LLC","domainpage":"https://www.iana.org/domains/root/db/forsale.html"}
 {"domain":".forum","type":"generic","tldmanager":"Fegistry, LLC","domainpage":"https://www.iana.org/domains/root/db/forum.html"}
-{"domain":".foundation","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/foundation.html"}
+{"domain":".foundation","type":"generic","tldmanager":"Public Interest Registry (PIR)","domainpage":"https://www.iana.org/domains/root/db/foundation.html"}
 {"domain":".fox","type":"generic","tldmanager":"FOX Registry, LLC","domainpage":"https://www.iana.org/domains/root/db/fox.html"}
 {"domain":".fr","type":"country-code","tldmanager":"Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)","domainpage":"https://www.iana.org/domains/root/db/fr.html"}
 {"domain":".free","type":"generic","tldmanager":"Amazon Registry Services, Inc.","domainpage":"https://www.iana.org/domains/root/db/free.html"}
@@ -513,7 +513,7 @@
 {"domain":".gi","type":"country-code","tldmanager":"Sapphire Networks","domainpage":"https://www.iana.org/domains/root/db/gi.html"}
 {"domain":".gift","type":"generic","tldmanager":"Uniregistry, Corp.","domainpage":"https://www.iana.org/domains/root/db/gift.html"}
 {"domain":".gifts","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/gifts.html"}
-{"domain":".gives","type":"generic","tldmanager":"Dog Beach, LLC","domainpage":"https://www.iana.org/domains/root/db/gives.html"}
+{"domain":".gives","type":"generic","tldmanager":"Public Interest Registry (PIR)","domainpage":"https://www.iana.org/domains/root/db/gives.html"}
 {"domain":".giving","type":"generic","tldmanager":"Giving Limited","domainpage":"https://www.iana.org/domains/root/db/giving.html"}
 {"domain":".gl","type":"country-code","tldmanager":"TELE Greenland A/S","domainpage":"https://www.iana.org/domains/root/db/gl.html"}
 {"domain":".glade","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/glade.html"}
