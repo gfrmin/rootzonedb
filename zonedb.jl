@@ -1080,7 +1080,7 @@
 {"domain":".rsvp","type":"generic","tldmanager":"Charleston Road Registry Inc.","domainpage":"https://www.iana.org/domains/root/db/rsvp.html"}
 {"domain":".ru","type":"country-code","tldmanager":"Coordination Center for TLD RU","domainpage":"https://www.iana.org/domains/root/db/ru.html"}
 {"domain":".rugby","type":"generic","tldmanager":"World Rugby Strategic Developments Limited","domainpage":"https://www.iana.org/domains/root/db/rugby.html"}
-{"domain":".ruhr","type":"generic","tldmanager":"regiodot GmbH & Co. KG","domainpage":"https://www.iana.org/domains/root/db/ruhr.html"}
+{"domain":".ruhr","type":"generic","tldmanager":"dotSaarland GmbH","domainpage":"https://www.iana.org/domains/root/db/ruhr.html"}
 {"domain":".run","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/run.html"}
 {"domain":".rw","type":"country-code","tldmanager":"Rwanda Internet Community and Technology  Alliance (RICTA) Ltd","domainpage":"https://www.iana.org/domains/root/db/rw.html"}
 {"domain":".rwe","type":"generic","tldmanager":"RWE AG","domainpage":"https://www.iana.org/domains/root/db/rwe.html"}
