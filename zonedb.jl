@@ -724,7 +724,7 @@
 {"domain":".landrover","type":"generic","tldmanager":"Jaguar Land Rover Ltd","domainpage":"https://www.iana.org/domains/root/db/landrover.html"}
 {"domain":".lanxess","type":"generic","tldmanager":"LANXESS Corporation","domainpage":"https://www.iana.org/domains/root/db/lanxess.html"}
 {"domain":".lasalle","type":"generic","tldmanager":"Jones Lang LaSalle Incorporated","domainpage":"https://www.iana.org/domains/root/db/lasalle.html"}
-{"domain":".lat","type":"generic","tldmanager":"ECOM-LAC Federación de Latinoamérica y el Caribe para Internet y el Comercio Electrónico","domainpage":"https://www.iana.org/domains/root/db/lat.html"}
+{"domain":".lat","type":"generic","tldmanager":"XYZ.COM LLC","domainpage":"https://www.iana.org/domains/root/db/lat.html"}
 {"domain":".latino","type":"generic","tldmanager":"Dish DBS Corporation","domainpage":"https://www.iana.org/domains/root/db/latino.html"}
 {"domain":".latrobe","type":"generic","tldmanager":"La Trobe University","domainpage":"https://www.iana.org/domains/root/db/latrobe.html"}
 {"domain":".law","type":"generic","tldmanager":"Registry Services, LLC","domainpage":"https://www.iana.org/domains/root/db/law.html"}
