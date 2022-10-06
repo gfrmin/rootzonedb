@@ -205,7 +205,7 @@
 {"domain":".cam","type":"generic","tldmanager":"CAM Connecting SARL","domainpage":"https://www.iana.org/domains/root/db/cam.html"}
 {"domain":".camera","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/camera.html"}
 {"domain":".camp","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/camp.html"}
-{"domain":".cancerresearch","type":"generic","tldmanager":"Australian Cancer Research Foundation","domainpage":"https://www.iana.org/domains/root/db/cancerresearch.html"}
+{"domain":".cancerresearch","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/cancerresearch.html"}
 {"domain":".canon","type":"generic","tldmanager":"Canon Inc.","domainpage":"https://www.iana.org/domains/root/db/canon.html"}
 {"domain":".capetown","type":"generic","tldmanager":"ZA Central Registry NPC trading as ZA Central Registry","domainpage":"https://www.iana.org/domains/root/db/capetown.html"}
 {"domain":".capital","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/capital.html"}
