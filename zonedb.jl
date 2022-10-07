@@ -185,7 +185,7 @@
 {"domain":".bs","type":"country-code","tldmanager":"University of The Bahamas","domainpage":"https://www.iana.org/domains/root/db/bs.html"}
 {"domain":".bt","type":"country-code","tldmanager":"Ministry of Information and Communications","domainpage":"https://www.iana.org/domains/root/db/bt.html"}
 {"domain":".budapest","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/budapest.html"}
-{"domain":".bugatti","type":"generic","tldmanager":"Bugatti International SA","domainpage":"https://www.iana.org/domains/root/db/bugatti.html"}
+{"domain":".bugatti","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/bugatti.html"}
 {"domain":".build","type":"generic","tldmanager":"Plan Bee LLC","domainpage":"https://www.iana.org/domains/root/db/build.html"}
 {"domain":".builders","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/builders.html"}
 {"domain":".business","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/business.html"}
