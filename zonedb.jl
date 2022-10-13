@@ -514,7 +514,7 @@
 {"domain":".gift","type":"generic","tldmanager":"Uniregistry, Corp.","domainpage":"https://www.iana.org/domains/root/db/gift.html"}
 {"domain":".gifts","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/gifts.html"}
 {"domain":".gives","type":"generic","tldmanager":"Public Interest Registry (PIR)","domainpage":"https://www.iana.org/domains/root/db/gives.html"}
-{"domain":".giving","type":"generic","tldmanager":"Giving Limited","domainpage":"https://www.iana.org/domains/root/db/giving.html"}
+{"domain":".giving","type":"generic","tldmanager":"Public Interest Registry (PIR)","domainpage":"https://www.iana.org/domains/root/db/giving.html"}
 {"domain":".gl","type":"country-code","tldmanager":"TELE Greenland A/S","domainpage":"https://www.iana.org/domains/root/db/gl.html"}
 {"domain":".glade","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/glade.html"}
 {"domain":".glass","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/glass.html"}
