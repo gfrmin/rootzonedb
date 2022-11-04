@@ -1327,7 +1327,7 @@
 {"domain":".verisign","type":"generic","tldmanager":"VeriSign, Inc.","domainpage":"https://www.iana.org/domains/root/db/verisign.html"}
 {"domain":".vermögensberater","type":"generic","tldmanager":"Deutsche Vermögensberatung Aktiengesellschaft DVAG","domainpage":"https://www.iana.org/domains/root/db/xn--vermgensberater-ctb.html"}
 {"domain":".vermögensberatung","type":"generic","tldmanager":"Deutsche Vermögensberatung Aktiengesellschaft DVAG","domainpage":"https://www.iana.org/domains/root/db/xn--vermgensberatung-pwb.html"}
-{"domain":".versicherung","type":"generic","tldmanager":"TLD-BOX Registrydienstleistungen GmbH","domainpage":"https://www.iana.org/domains/root/db/versicherung.html"}
+{"domain":".versicherung","type":"generic","tldmanager":"tldbox GmbH","domainpage":"https://www.iana.org/domains/root/db/versicherung.html"}
 {"domain":".vet","type":"generic","tldmanager":"Dog Beach, LLC","domainpage":"https://www.iana.org/domains/root/db/vet.html"}
 {"domain":".vg","type":"country-code","tldmanager":"Telecommunications Regulatory Commission of the Virgin Islands","domainpage":"https://www.iana.org/domains/root/db/vg.html"}
 {"domain":".vi","type":"country-code","tldmanager":"Virgin Islands Public Telecommunications System, Inc.","domainpage":"https://www.iana.org/domains/root/db/vi.html"}
