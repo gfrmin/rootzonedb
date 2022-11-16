@@ -1297,7 +1297,7 @@
 {"domain":".tui","type":"generic","tldmanager":"TUI AG","domainpage":"https://www.iana.org/domains/root/db/tui.html"}
 {"domain":".tunes","type":"generic","tldmanager":"Amazon Registry Services, Inc.","domainpage":"https://www.iana.org/domains/root/db/tunes.html"}
 {"domain":".tushu","type":"generic","tldmanager":"Amazon Registry Services, Inc.","domainpage":"https://www.iana.org/domains/root/db/tushu.html"}
-{"domain":".tv","type":"country-code","tldmanager":"Ministry of Justice, Communications and Foreign Affairs","domainpage":"https://www.iana.org/domains/root/db/tv.html"}
+{"domain":".tv","type":"country-code","tldmanager":"Ministry of Finance and Tourism","domainpage":"https://www.iana.org/domains/root/db/tv.html"}
 {"domain":".tvs","type":"generic","tldmanager":"T V SUNDRAM IYENGAR  & SONS PRIVATE LIMITED","domainpage":"https://www.iana.org/domains/root/db/tvs.html"}
 {"domain":".tw","type":"country-code","tldmanager":"Taiwan Network Information Center (TWNIC)","domainpage":"https://www.iana.org/domains/root/db/tw.html"}
 {"domain":".tz","type":"country-code","tldmanager":"Tanzania Communications Regulatory Authority","domainpage":"https://www.iana.org/domains/root/db/tz.html"}
