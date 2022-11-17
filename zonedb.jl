@@ -266,7 +266,7 @@
 {"domain":".cl","type":"country-code","tldmanager":"NIC Chile (University of Chile)","domainpage":"https://www.iana.org/domains/root/db/cl.html"}
 {"domain":".claims","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/claims.html"}
 {"domain":".cleaning","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/cleaning.html"}
-{"domain":".click","type":"generic","tldmanager":"UNR Corp.","domainpage":"https://www.iana.org/domains/root/db/click.html"}
+{"domain":".click","type":"generic","tldmanager":"Internet Naming Co.","domainpage":"https://www.iana.org/domains/root/db/click.html"}
 {"domain":".clinic","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/clinic.html"}
 {"domain":".clinique","type":"generic","tldmanager":"The Estée Lauder Companies Inc.","domainpage":"https://www.iana.org/domains/root/db/clinique.html"}
 {"domain":".clothing","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/clothing.html"}
@@ -299,7 +299,7 @@
 {"domain":".cool","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/cool.html"}
 {"domain":".coop","type":"sponsored","tldmanager":"DotCooperation LLC","domainpage":"https://www.iana.org/domains/root/db/coop.html"}
 {"domain":".corsica","type":"generic","tldmanager":"Collectivité de Corse","domainpage":"https://www.iana.org/domains/root/db/corsica.html"}
-{"domain":".country","type":"generic","tldmanager":"Top Level Domain Holdings Limited","domainpage":"https://www.iana.org/domains/root/db/country.html"}
+{"domain":".country","type":"generic","tldmanager":"Internet Naming Co.","domainpage":"https://www.iana.org/domains/root/db/country.html"}
 {"domain":".coupon","type":"generic","tldmanager":"Amazon Registry Services, Inc.","domainpage":"https://www.iana.org/domains/root/db/coupon.html"}
 {"domain":".coupons","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/coupons.html"}
 {"domain":".courses","type":"generic","tldmanager":"Registry Services, LLC","domainpage":"https://www.iana.org/domains/root/db/courses.html"}
@@ -577,7 +577,7 @@
 {"domain":".hiphop","type":"generic","tldmanager":"Dot Hip Hop, LLC","domainpage":"https://www.iana.org/domains/root/db/hiphop.html"}
 {"domain":".hisamitsu","type":"generic","tldmanager":"Hisamitsu Pharmaceutical Co.,Inc.","domainpage":"https://www.iana.org/domains/root/db/hisamitsu.html"}
 {"domain":".hitachi","type":"generic","tldmanager":"Hitachi, Ltd.","domainpage":"https://www.iana.org/domains/root/db/hitachi.html"}
-{"domain":".hiv","type":"generic","tldmanager":"UNR Corp.","domainpage":"https://www.iana.org/domains/root/db/hiv.html"}
+{"domain":".hiv","type":"generic","tldmanager":"Internet Naming Co.","domainpage":"https://www.iana.org/domains/root/db/hiv.html"}
 {"domain":".hk","type":"country-code","tldmanager":"Hong Kong Internet Registration Corporation Ltd.","domainpage":"https://www.iana.org/domains/root/db/hk.html"}
 {"domain":".hkt","type":"generic","tldmanager":"PCCW-HKT DataCom Services Limited","domainpage":"https://www.iana.org/domains/root/db/hkt.html"}
 {"domain":".hm","type":"country-code","tldmanager":"HM Domain Registry","domainpage":"https://www.iana.org/domains/root/db/hm.html"}
@@ -1019,7 +1019,7 @@
 {"domain":".progressive","type":"generic","tldmanager":"Progressive Casualty Insurance Company","domainpage":"https://www.iana.org/domains/root/db/progressive.html"}
 {"domain":".promo","type":"generic","tldmanager":"Afilias Limited","domainpage":"https://www.iana.org/domains/root/db/promo.html"}
 {"domain":".properties","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/properties.html"}
-{"domain":".property","type":"generic","tldmanager":"UNR Corp.","domainpage":"https://www.iana.org/domains/root/db/property.html"}
+{"domain":".property","type":"generic","tldmanager":"Internet Naming Co.","domainpage":"https://www.iana.org/domains/root/db/property.html"}
 {"domain":".protection","type":"generic","tldmanager":"XYZ.COM LLC","domainpage":"https://www.iana.org/domains/root/db/protection.html"}
 {"domain":".pru","type":"generic","tldmanager":"Prudential Financial, Inc.","domainpage":"https://www.iana.org/domains/root/db/pru.html"}
 {"domain":".prudential","type":"generic","tldmanager":"Prudential Financial, Inc.","domainpage":"https://www.iana.org/domains/root/db/prudential.html"}
@@ -1133,7 +1133,7 @@
 {"domain":".seven","type":"generic","tldmanager":"Seven West Media Ltd","domainpage":"https://www.iana.org/domains/root/db/seven.html"}
 {"domain":".sew","type":"generic","tldmanager":"SEW-EURODRIVE GmbH & Co KG","domainpage":"https://www.iana.org/domains/root/db/sew.html"}
 {"domain":".sex","type":"generic","tldmanager":"ICM Registry SX LLC","domainpage":"https://www.iana.org/domains/root/db/sex.html"}
-{"domain":".sexy","type":"generic","tldmanager":"UNR Corp.","domainpage":"https://www.iana.org/domains/root/db/sexy.html"}
+{"domain":".sexy","type":"generic","tldmanager":"Internet Naming Co.","domainpage":"https://www.iana.org/domains/root/db/sexy.html"}
 {"domain":".sfr","type":"generic","tldmanager":"Societe Francaise du Radiotelephone - SFR","domainpage":"https://www.iana.org/domains/root/db/sfr.html"}
 {"domain":".sg","type":"country-code","tldmanager":"Singapore Network Information Centre (SGNIC) Pte Ltd","domainpage":"https://www.iana.org/domains/root/db/sg.html"}
 {"domain":".sh","type":"country-code","tldmanager":"Government of St. Helena","domainpage":"https://www.iana.org/domains/root/db/sh.html"}
@@ -1290,7 +1290,7 @@
 {"domain":".travelchannel","type":"generic","tldmanager":"Lifestyle Domain Holdings, Inc.","domainpage":"https://www.iana.org/domains/root/db/travelchannel.html"}
 {"domain":".travelers","type":"generic","tldmanager":"Travelers TLD, LLC","domainpage":"https://www.iana.org/domains/root/db/travelers.html"}
 {"domain":".travelersinsurance","type":"generic","tldmanager":"Travelers TLD, LLC","domainpage":"https://www.iana.org/domains/root/db/travelersinsurance.html"}
-{"domain":".trust","type":"generic","tldmanager":"UNR Corp.","domainpage":"https://www.iana.org/domains/root/db/trust.html"}
+{"domain":".trust","type":"generic","tldmanager":"Internet Naming Co.","domainpage":"https://www.iana.org/domains/root/db/trust.html"}
 {"domain":".trv","type":"generic","tldmanager":"Travelers TLD, LLC","domainpage":"https://www.iana.org/domains/root/db/trv.html"}
 {"domain":".tt","type":"country-code","tldmanager":"University of the West Indies\nFaculty of Engineering","domainpage":"https://www.iana.org/domains/root/db/tt.html"}
 {"domain":".tube","type":"generic","tldmanager":"Latin American Telecom LLC","domainpage":"https://www.iana.org/domains/root/db/tube.html"}
