@@ -299,7 +299,7 @@
 {"domain":".cool","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/cool.html"}
 {"domain":".coop","type":"sponsored","tldmanager":"DotCooperation LLC","domainpage":"https://www.iana.org/domains/root/db/coop.html"}
 {"domain":".corsica","type":"generic","tldmanager":"Collectivité de Corse","domainpage":"https://www.iana.org/domains/root/db/corsica.html"}
-{"domain":".country","type":"generic","tldmanager":"Internet Naming Co.","domainpage":"https://www.iana.org/domains/root/db/country.html"}
+{"domain":".country","type":"generic","tldmanager":"Top Level Domain Holdings Limited","domainpage":"https://www.iana.org/domains/root/db/country.html"}
 {"domain":".coupon","type":"generic","tldmanager":"Amazon Registry Services, Inc.","domainpage":"https://www.iana.org/domains/root/db/coupon.html"}
 {"domain":".coupons","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/coupons.html"}
 {"domain":".courses","type":"generic","tldmanager":"Registry Services, LLC","domainpage":"https://www.iana.org/domains/root/db/courses.html"}
