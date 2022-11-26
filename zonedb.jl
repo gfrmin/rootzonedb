@@ -17,7 +17,7 @@
 {"domain":".active","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/active.html"}
 {"domain":".actor","type":"generic","tldmanager":"Dog Beach, LLC","domainpage":"https://www.iana.org/domains/root/db/actor.html"}
 {"domain":".ad","type":"country-code","tldmanager":"Andorra Telecom","domainpage":"https://www.iana.org/domains/root/db/ad.html"}
-{"domain":".adac","type":"generic","tldmanager":"Allgemeiner Deutscher Automobil-Club e.V. (ADAC)","domainpage":"https://www.iana.org/domains/root/db/adac.html"}
+{"domain":".adac","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/adac.html"}
 {"domain":".ads","type":"generic","tldmanager":"Charleston Road Registry Inc.","domainpage":"https://www.iana.org/domains/root/db/ads.html"}
 {"domain":".adult","type":"generic","tldmanager":"ICM Registry AD LLC","domainpage":"https://www.iana.org/domains/root/db/adult.html"}
 {"domain":".ae","type":"country-code","tldmanager":"Telecommunications and Digital Government Regulatory Authority (TDRA)","domainpage":"https://www.iana.org/domains/root/db/ae.html"}
