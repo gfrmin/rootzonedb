@@ -1534,7 +1534,7 @@
 {"domain":".网站","type":"generic","tldmanager":"Global Website TLD Asia Limited","domainpage":"https://www.iana.org/domains/root/db/xn--5tzm5g.html"}
 {"domain":".网络","type":"generic","tldmanager":"Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）","domainpage":"https://www.iana.org/domains/root/db/xn--io0a7i.html"}
 {"domain":".联通","type":"generic","tldmanager":"China United Network Communications Corporation Limited","domainpage":"https://www.iana.org/domains/root/db/xn--8y0a063a.html"}
-{"domain":".诺基亚","type":"generic","tldmanager":"Nokia Corporation","domainpage":"https://www.iana.org/domains/root/db/xn--jlq61u9w7b.html"}
+{"domain":".诺基亚","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/xn--jlq61u9w7b.html"}
 {"domain":".谷歌","type":"generic","tldmanager":"Charleston Road Registry Inc.","domainpage":"https://www.iana.org/domains/root/db/xn--flw351e.html"}
 {"domain":".购物","type":"generic","tldmanager":"Nawang Heli(Xiamen) Network Service Co., LTD.","domainpage":"https://www.iana.org/domains/root/db/xn--g2xx48c.html"}
 {"domain":".通販","type":"generic","tldmanager":"Amazon Registry Services, Inc.","domainpage":"https://www.iana.org/domains/root/db/xn--gk3at1e.html"}
