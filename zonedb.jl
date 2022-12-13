@@ -55,7 +55,7 @@
 {"domain":".amfam","type":"generic","tldmanager":"AmFam, Inc.","domainpage":"https://www.iana.org/domains/root/db/amfam.html"}
 {"domain":".amica","type":"generic","tldmanager":"Amica Mutual Insurance Company","domainpage":"https://www.iana.org/domains/root/db/amica.html"}
 {"domain":".amsterdam","type":"generic","tldmanager":"Gemeente Amsterdam","domainpage":"https://www.iana.org/domains/root/db/amsterdam.html"}
-{"domain":".an","type":"country-code","tldmanager":"Retired","domainpage":"https://www.iana.org/domains/root/db/an.html"}
+{"domain":".an","type":"country-code","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/an.html"}
 {"domain":".analytics","type":"generic","tldmanager":"Campus IP LLC","domainpage":"https://www.iana.org/domains/root/db/analytics.html"}
 {"domain":".android","type":"generic","tldmanager":"Charleston Road Registry Inc.","domainpage":"https://www.iana.org/domains/root/db/android.html"}
 {"domain":".anquan","type":"generic","tldmanager":"QIHOO 360 TECHNOLOGY CO. LTD.","domainpage":"https://www.iana.org/domains/root/db/anquan.html"}
@@ -369,7 +369,7 @@
 {"domain":".dog","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/dog.html"}
 {"domain":".doha","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/doha.html"}
 {"domain":".domains","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/domains.html"}
-{"domain":".doosan","type":"generic","tldmanager":"Retired","domainpage":"https://www.iana.org/domains/root/db/doosan.html"}
+{"domain":".doosan","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/doosan.html"}
 {"domain":".dot","type":"generic","tldmanager":"Dish DBS Corporation","domainpage":"https://www.iana.org/domains/root/db/dot.html"}
 {"domain":".download","type":"generic","tldmanager":"dot Support Limited","domainpage":"https://www.iana.org/domains/root/db/download.html"}
 {"domain":".drive","type":"generic","tldmanager":"Charleston Road Registry Inc.","domainpage":"https://www.iana.org/domains/root/db/drive.html"}
@@ -458,7 +458,7 @@
 {"domain":".flir","type":"generic","tldmanager":"FLIR Systems, Inc.","domainpage":"https://www.iana.org/domains/root/db/flir.html"}
 {"domain":".florist","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/florist.html"}
 {"domain":".flowers","type":"generic","tldmanager":"XYZ.COM LLC","domainpage":"https://www.iana.org/domains/root/db/flowers.html"}
-{"domain":".flsmidth","type":"generic","tldmanager":"Retired","domainpage":"https://www.iana.org/domains/root/db/flsmidth.html"}
+{"domain":".flsmidth","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/flsmidth.html"}
 {"domain":".fly","type":"generic","tldmanager":"Charleston Road Registry Inc.","domainpage":"https://www.iana.org/domains/root/db/fly.html"}
 {"domain":".fm","type":"country-code","tldmanager":"FSM Telecommunications Corporation","domainpage":"https://www.iana.org/domains/root/db/fm.html"}
 {"domain":".fo","type":"country-code","tldmanager":"FO Council","domainpage":"https://www.iana.org/domains/root/db/fo.html"}
@@ -617,7 +617,7 @@
 {"domain":".ie","type":"country-code","tldmanager":"University College Dublin\nComputing Services\nComputer Centre","domainpage":"https://www.iana.org/domains/root/db/ie.html"}
 {"domain":".ieee","type":"generic","tldmanager":"IEEE Global LLC","domainpage":"https://www.iana.org/domains/root/db/ieee.html"}
 {"domain":".ifm","type":"generic","tldmanager":"ifm electronic gmbh","domainpage":"https://www.iana.org/domains/root/db/ifm.html"}
-{"domain":".iinet","type":"generic","tldmanager":"Retired","domainpage":"https://www.iana.org/domains/root/db/iinet.html"}
+{"domain":".iinet","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/iinet.html"}
 {"domain":".ikano","type":"generic","tldmanager":"Ikano S.A.","domainpage":"https://www.iana.org/domains/root/db/ikano.html"}
 {"domain":".il","type":"country-code","tldmanager":"The Israel Internet Association (RA)","domainpage":"https://www.iana.org/domains/root/db/il.html"}
 {"domain":".im","type":"country-code","tldmanager":"Isle of Man Government","domainpage":"https://www.iana.org/domains/root/db/im.html"}
@@ -864,13 +864,13 @@
 {"domain":".msd","type":"generic","tldmanager":"MSD Registry Holdings, Inc.","domainpage":"https://www.iana.org/domains/root/db/msd.html"}
 {"domain":".mt","type":"country-code","tldmanager":"NIC (Malta)","domainpage":"https://www.iana.org/domains/root/db/mt.html"}
 {"domain":".mtn","type":"generic","tldmanager":"MTN Dubai Limited","domainpage":"https://www.iana.org/domains/root/db/mtn.html"}
-{"domain":".mtpc","type":"generic","tldmanager":"Retired","domainpage":"https://www.iana.org/domains/root/db/mtpc.html"}
+{"domain":".mtpc","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/mtpc.html"}
 {"domain":".mtr","type":"generic","tldmanager":"MTR Corporation Limited","domainpage":"https://www.iana.org/domains/root/db/mtr.html"}
 {"domain":".mu","type":"country-code","tldmanager":"Internet Direct Ltd","domainpage":"https://www.iana.org/domains/root/db/mu.html"}
 {"domain":".museum","type":"sponsored","tldmanager":"Museum Domain Management Association","domainpage":"https://www.iana.org/domains/root/db/museum.html"}
 {"domain":".music","type":"generic","tldmanager":"DotMusic Limited","domainpage":"https://www.iana.org/domains/root/db/music.html"}
 {"domain":".mutual","type":"generic","tldmanager":"Northwestern Mutual MU TLD Registry, LLC","domainpage":"https://www.iana.org/domains/root/db/mutual.html"}
-{"domain":".mutuelle","type":"generic","tldmanager":"Retired","domainpage":"https://www.iana.org/domains/root/db/mutuelle.html"}
+{"domain":".mutuelle","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/mutuelle.html"}
 {"domain":".mv","type":"country-code","tldmanager":"Dhiraagu Pvt. Ltd. (DHIVEHINET)","domainpage":"https://www.iana.org/domains/root/db/mv.html"}
 {"domain":".mw","type":"country-code","tldmanager":"Malawi Sustainable Development Network Programme\n(Malawi SDNP)","domainpage":"https://www.iana.org/domains/root/db/mw.html"}
 {"domain":".mx","type":"country-code","tldmanager":"NIC-Mexico\nITESM - Campus Monterrey","domainpage":"https://www.iana.org/domains/root/db/mx.html"}
@@ -949,7 +949,7 @@
 {"domain":".orange","type":"generic","tldmanager":"Orange Brand Services Limited","domainpage":"https://www.iana.org/domains/root/db/orange.html"}
 {"domain":".org","type":"generic","tldmanager":"Public Interest Registry (PIR)","domainpage":"https://www.iana.org/domains/root/db/org.html"}
 {"domain":".organic","type":"generic","tldmanager":"Afilias Limited","domainpage":"https://www.iana.org/domains/root/db/organic.html"}
-{"domain":".orientexpress","type":"generic","tldmanager":"Retired","domainpage":"https://www.iana.org/domains/root/db/orientexpress.html"}
+{"domain":".orientexpress","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/orientexpress.html"}
 {"domain":".origins","type":"generic","tldmanager":"The Estée Lauder Companies Inc.","domainpage":"https://www.iana.org/domains/root/db/origins.html"}
 {"domain":".osaka","type":"generic","tldmanager":"Osaka Registry Co., Ltd.","domainpage":"https://www.iana.org/domains/root/db/osaka.html"}
 {"domain":".otsuka","type":"generic","tldmanager":"Otsuka Holdings Co., Ltd.","domainpage":"https://www.iana.org/domains/root/db/otsuka.html"}
@@ -1281,7 +1281,7 @@
 {"domain":".town","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/town.html"}
 {"domain":".toyota","type":"generic","tldmanager":"TOYOTA MOTOR CORPORATION","domainpage":"https://www.iana.org/domains/root/db/toyota.html"}
 {"domain":".toys","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/toys.html"}
-{"domain":".tp","type":"country-code","tldmanager":"Retired","domainpage":"https://www.iana.org/domains/root/db/tp.html"}
+{"domain":".tp","type":"country-code","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/tp.html"}
 {"domain":".tr","type":"country-code","tldmanager":"Bilgi Teknolojileri ve İletişim Kurumu (BTK)","domainpage":"https://www.iana.org/domains/root/db/tr.html"}
 {"domain":".trade","type":"generic","tldmanager":"Elite Registry Limited","domainpage":"https://www.iana.org/domains/root/db/trade.html"}
 {"domain":".trading","type":"generic","tldmanager":"Dog Beach, LLC","domainpage":"https://www.iana.org/domains/root/db/trading.html"}
@@ -1422,14 +1422,14 @@
 {"domain":".zone","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/zone.html"}
 {"domain":".zuerich","type":"generic","tldmanager":"Kanton Zürich (Canton of Zurich)","domainpage":"https://www.iana.org/domains/root/db/zuerich.html"}
 {"domain":".zw","type":"country-code","tldmanager":"Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)","domainpage":"https://www.iana.org/domains/root/db/zw.html"}
-{"domain":".δοκιμή","type":"test","tldmanager":"Internet Assigned Numbers Authority","domainpage":"https://www.iana.org/domains/root/db/xn--jxalpdlp.html"}
+{"domain":".δοκιμή","type":"test","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/xn--jxalpdlp.html"}
 {"domain":".ελ","type":"country-code","tldmanager":"ICS-FORTH GR","domainpage":"https://www.iana.org/domains/root/db/xn--qxam.html"}
 {"domain":".ευ","type":"country-code","tldmanager":"EURid vzw","domainpage":"https://www.iana.org/domains/root/db/xn--qxa6a.html"}
 {"domain":".бг","type":"country-code","tldmanager":"Imena.BG AD","domainpage":"https://www.iana.org/domains/root/db/xn--90ae.html"}
 {"domain":".бел","type":"country-code","tldmanager":"Belarusian Cloud Technologies LLC","domainpage":"https://www.iana.org/domains/root/db/xn--90ais.html"}
 {"domain":".дети","type":"generic","tldmanager":"The Foundation for Network Initiatives “The Smart Internet”","domainpage":"https://www.iana.org/domains/root/db/xn--d1acj3b.html"}
 {"domain":".ею","type":"country-code","tldmanager":"EURid vzw","domainpage":"https://www.iana.org/domains/root/db/xn--e1a4c.html"}
-{"domain":".испытание","type":"test","tldmanager":"Internet Assigned Numbers Authority","domainpage":"https://www.iana.org/domains/root/db/xn--80akhbyknj4f.html"}
+{"domain":".испытание","type":"test","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/xn--80akhbyknj4f.html"}
 {"domain":".католик","type":"generic","tldmanager":"Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)","domainpage":"https://www.iana.org/domains/root/db/xn--80aqecdr1a.html"}
 {"domain":".ком","type":"generic","tldmanager":"VeriSign Sarl","domainpage":"https://www.iana.org/domains/root/db/xn--j1aef.html"}
 {"domain":".мкд","type":"country-code","tldmanager":"Macedonian Academic Research Network Skopje","domainpage":"https://www.iana.org/domains/root/db/xn--d1alf.html"}
@@ -1446,7 +1446,7 @@
 {"domain":".հայ","type":"country-code","tldmanager":"\"Internet Society\" Non-governmental Organization","domainpage":"https://www.iana.org/domains/root/db/xn--y9a3aq.html"}
 {"domain":".कॉम","type":"generic","tldmanager":"VeriSign Sarl","domainpage":"https://www.iana.org/domains/root/db/xn--11b4c3d.html"}
 {"domain":".नेट","type":"generic","tldmanager":"VeriSign Sarl","domainpage":"https://www.iana.org/domains/root/db/xn--c2br7g.html"}
-{"domain":".परीक्षा","type":"test","tldmanager":"Internet Assigned Numbers Authority","domainpage":"https://www.iana.org/domains/root/db/xn--11b5bs3a9aj6g.html"}
+{"domain":".परीक्षा","type":"test","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/xn--11b5bs3a9aj6g.html"}
 {"domain":".भारत","type":"country-code","tldmanager":"National Internet Exchange of India","domainpage":"https://www.iana.org/domains/root/db/xn--h2brj9c.html"}
 {"domain":".भारतम्","type":"country-code","tldmanager":"National Internet eXchange of India","domainpage":"https://www.iana.org/domains/root/db/xn--h2breg3eve.html"}
 {"domain":".भारोत","type":"country-code","tldmanager":"National Internet eXchange of India","domainpage":"https://www.iana.org/domains/root/db/xn--h2brj9c8c.html"}
@@ -1460,7 +1460,7 @@
 {"domain":".இந்தியா","type":"country-code","tldmanager":"National Internet Exchange of India","domainpage":"https://www.iana.org/domains/root/db/xn--xkc2dl3a5ee0h.html"}
 {"domain":".இலங்கை","type":"country-code","tldmanager":"LK Domain Registry","domainpage":"https://www.iana.org/domains/root/db/xn--xkc2al3hye2a.html"}
 {"domain":".சிங்கப்பூர்","type":"country-code","tldmanager":"Singapore Network Information Centre (SGNIC) Pte Ltd","domainpage":"https://www.iana.org/domains/root/db/xn--clchc0ea0b2g2a9gcd.html"}
-{"domain":".பரிட்சை","type":"test","tldmanager":"Internet Assigned Numbers Authority","domainpage":"https://www.iana.org/domains/root/db/xn--hlcj6aya9esc7a.html"}
+{"domain":".பரிட்சை","type":"test","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/xn--hlcj6aya9esc7a.html"}
 {"domain":".భారత్","type":"country-code","tldmanager":"National Internet Exchange of India","domainpage":"https://www.iana.org/domains/root/db/xn--fpcrj9c3d.html"}
 {"domain":".ಭಾರತ","type":"country-code","tldmanager":"National Internet eXchange of India","domainpage":"https://www.iana.org/domains/root/db/xn--2scrj9c.html"}
 {"domain":".ഭാരതം","type":"country-code","tldmanager":"National Internet eXchange of India","domainpage":"https://www.iana.org/domains/root/db/xn--rvc1e0am3e.html"}
@@ -1476,7 +1476,7 @@
 {"domain":".コム","type":"generic","tldmanager":"VeriSign Sarl","domainpage":"https://www.iana.org/domains/root/db/xn--tckwe.html"}
 {"domain":".ストア","type":"generic","tldmanager":"Amazon Registry Services, Inc.","domainpage":"https://www.iana.org/domains/root/db/xn--cck2b3b.html"}
 {"domain":".セール","type":"generic","tldmanager":"Amazon Registry Services, Inc.","domainpage":"https://www.iana.org/domains/root/db/xn--1ck2e1b.html"}
-{"domain":".テスト","type":"test","tldmanager":"Internet Assigned Numbers Authority","domainpage":"https://www.iana.org/domains/root/db/xn--zckzah.html"}
+{"domain":".テスト","type":"test","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/xn--zckzah.html"}
 {"domain":".ファッション","type":"generic","tldmanager":"Amazon Registry Services, Inc.","domainpage":"https://www.iana.org/domains/root/db/xn--bck1b9a5dre4c.html"}
 {"domain":".ポイント","type":"generic","tldmanager":"Amazon Registry Services, Inc.","domainpage":"https://www.iana.org/domains/root/db/xn--eckvdtc9d.html"}
 {"domain":".世界","type":"generic","tldmanager":"Stable Tone Limited","domainpage":"https://www.iana.org/domains/root/db/xn--rhqv96g.html"}
@@ -1520,9 +1520,9 @@
 {"domain":".时尚","type":"generic","tldmanager":"RISE VICTORY LIMITED","domainpage":"https://www.iana.org/domains/root/db/xn--9et52u.html"}
 {"domain":".書籍","type":"generic","tldmanager":"Amazon Registry Services, Inc.","domainpage":"https://www.iana.org/domains/root/db/xn--rovu88b.html"}
 {"domain":".机构","type":"generic","tldmanager":"Public Interest Registry","domainpage":"https://www.iana.org/domains/root/db/xn--nqv7f.html"}
-{"domain":".测试","type":"test","tldmanager":"Internet Assigned Numbers Authority","domainpage":"https://www.iana.org/domains/root/db/xn--0zwm56d.html"}
+{"domain":".测试","type":"test","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/xn--0zwm56d.html"}
 {"domain":".淡马锡","type":"generic","tldmanager":"Temasek Holdings (Private) Limited","domainpage":"https://www.iana.org/domains/root/db/xn--b4w605ferd.html"}
-{"domain":".測試","type":"test","tldmanager":"Internet Assigned Numbers Authority","domainpage":"https://www.iana.org/domains/root/db/xn--g6w251d.html"}
+{"domain":".測試","type":"test","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/xn--g6w251d.html"}
 {"domain":".游戏","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/xn--unup4y.html"}
 {"domain":".澳門","type":"country-code","tldmanager":"Macao Post and Telecommunications Bureau (CTT)","domainpage":"https://www.iana.org/domains/root/db/xn--mix891f.html"}
 {"domain":".点看","type":"generic","tldmanager":"VeriSign Sarl","domainpage":"https://www.iana.org/domains/root/db/xn--3pxu8k.html"}
@@ -1548,13 +1548,13 @@
 {"domain":".닷넷","type":"generic","tldmanager":"VeriSign Sarl","domainpage":"https://www.iana.org/domains/root/db/xn--t60b56a.html"}
 {"domain":".닷컴","type":"generic","tldmanager":"VeriSign Sarl","domainpage":"https://www.iana.org/domains/root/db/xn--mk1bu44c.html"}
 {"domain":".삼성","type":"generic","tldmanager":"SAMSUNG SDS CO., LTD","domainpage":"https://www.iana.org/domains/root/db/xn--cg4bki.html"}
-{"domain":".테스트","type":"test","tldmanager":"Internet Assigned Numbers Authority","domainpage":"https://www.iana.org/domains/root/db/xn--9t4b11yi5a.html"}
+{"domain":".테스트","type":"test","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/xn--9t4b11yi5a.html"}
 {"domain":".한국","type":"country-code","tldmanager":"KISA (Korea Internet & Security Agency)","domainpage":"https://www.iana.org/domains/root/db/xn--3e0b707e.html"}
-{"domain":"‏.טעסט‎","type":"test","tldmanager":"Internet Assigned Numbers Authority","domainpage":"https://www.iana.org/domains/root/db/xn--deba0ad.html"}
+{"domain":"‏.טעסט‎","type":"test","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/xn--deba0ad.html"}
 {"domain":"‏.ישראל‎","type":"country-code","tldmanager":"The Israel Internet Association (RA)","domainpage":"https://www.iana.org/domains/root/db/xn--4dbrk0ce.html"}
 {"domain":"‏.קום‎","type":"generic","tldmanager":"VeriSign Sarl","domainpage":"https://www.iana.org/domains/root/db/xn--9dbq2a.html"}
-{"domain":"‏.آزمایشی‎","type":"test","tldmanager":"Internet Assigned Numbers Authority","domainpage":"https://www.iana.org/domains/root/db/xn--hgbk6aj7f53bba.html"}
-{"domain":"‏.إختبار‎","type":"test","tldmanager":"Internet Assigned Numbers Authority","domainpage":"https://www.iana.org/domains/root/db/xn--kgbechtv.html"}
+{"domain":"‏.آزمایشی‎","type":"test","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/xn--hgbk6aj7f53bba.html"}
+{"domain":"‏.إختبار‎","type":"test","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/xn--kgbechtv.html"}
 {"domain":"‏.ابوظبي‎","type":"generic","tldmanager":"Abu Dhabi Systems and Information Centre","domainpage":"https://www.iana.org/domains/root/db/xn--mgbca7dzdo.html"}
 {"domain":"‏.اتصالات‎","type":"generic","tldmanager":"Emirates Telecommunications Corporation (trading as Etisalat)","domainpage":"https://www.iana.org/domains/root/db/xn--mgbaakc7dvf.html"}
 {"domain":"‏.ارامكو‎","type":"generic","tldmanager":"Aramco Services Company","domainpage":"https://www.iana.org/domains/root/db/xn--mgba3a3ejt.html"}
