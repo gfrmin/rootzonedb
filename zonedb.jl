@@ -1129,7 +1129,7 @@
 {"domain":".select","type":"generic","tldmanager":"Registry Services, LLC","domainpage":"https://www.iana.org/domains/root/db/select.html"}
 {"domain":".sener","type":"generic","tldmanager":"Sener Ingeniería y Sistemas, S.A.","domainpage":"https://www.iana.org/domains/root/db/sener.html"}
 {"domain":".services","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/services.html"}
-{"domain":".ses","type":"generic","tldmanager":"SES","domainpage":"https://www.iana.org/domains/root/db/ses.html"}
+{"domain":".ses","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/ses.html"}
 {"domain":".seven","type":"generic","tldmanager":"Seven West Media Ltd","domainpage":"https://www.iana.org/domains/root/db/seven.html"}
 {"domain":".sew","type":"generic","tldmanager":"SEW-EURODRIVE GmbH & Co KG","domainpage":"https://www.iana.org/domains/root/db/sew.html"}
 {"domain":".sex","type":"generic","tldmanager":"ICM Registry SX LLC","domainpage":"https://www.iana.org/domains/root/db/sex.html"}
