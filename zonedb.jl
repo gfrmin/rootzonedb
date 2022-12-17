@@ -764,7 +764,7 @@
 {"domain":".loans","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/loans.html"}
 {"domain":".locker","type":"generic","tldmanager":"Dish DBS Corporation","domainpage":"https://www.iana.org/domains/root/db/locker.html"}
 {"domain":".locus","type":"generic","tldmanager":"Locus Analytics LLC","domainpage":"https://www.iana.org/domains/root/db/locus.html"}
-{"domain":".loft","type":"generic","tldmanager":"Annco, Inc.","domainpage":"https://www.iana.org/domains/root/db/loft.html"}
+{"domain":".loft","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/loft.html"}
 {"domain":".lol","type":"generic","tldmanager":"XYZ.COM LLC","domainpage":"https://www.iana.org/domains/root/db/lol.html"}
 {"domain":".london","type":"generic","tldmanager":"Dot London Domains Limited","domainpage":"https://www.iana.org/domains/root/db/london.html"}
 {"domain":".lotte","type":"generic","tldmanager":"Lotte Holdings Co., Ltd.","domainpage":"https://www.iana.org/domains/root/db/lotte.html"}
