@@ -815,7 +815,7 @@
 {"domain":".meme","type":"generic","tldmanager":"Charleston Road Registry Inc.","domainpage":"https://www.iana.org/domains/root/db/meme.html"}
 {"domain":".memorial","type":"generic","tldmanager":"Dog Beach, LLC","domainpage":"https://www.iana.org/domains/root/db/memorial.html"}
 {"domain":".men","type":"generic","tldmanager":"Exclusive Registry Limited","domainpage":"https://www.iana.org/domains/root/db/men.html"}
-{"domain":".menu","type":"generic","tldmanager":"Dot Menu Registry LLC","domainpage":"https://www.iana.org/domains/root/db/menu.html"}
+{"domain":".menu","type":"generic","tldmanager":"Wedding TLD2, LLC","domainpage":"https://www.iana.org/domains/root/db/menu.html"}
 {"domain":".meo","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/meo.html"}
 {"domain":".merckmsd","type":"generic","tldmanager":"MSD Registry Holdings, Inc.","domainpage":"https://www.iana.org/domains/root/db/merckmsd.html"}
 {"domain":".metlife","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/metlife.html"}
