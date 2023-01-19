@@ -1137,7 +1137,7 @@
 {"domain":".sfr","type":"generic","tldmanager":"Societe Francaise du Radiotelephone - SFR","domainpage":"https://www.iana.org/domains/root/db/sfr.html"}
 {"domain":".sg","type":"country-code","tldmanager":"Singapore Network Information Centre (SGNIC) Pte Ltd","domainpage":"https://www.iana.org/domains/root/db/sg.html"}
 {"domain":".sh","type":"country-code","tldmanager":"Government of St. Helena","domainpage":"https://www.iana.org/domains/root/db/sh.html"}
-{"domain":".shangrila","type":"generic","tldmanager":"Shangri‐La International Hotel Management Limited","domainpage":"https://www.iana.org/domains/root/db/shangrila.html"}
+{"domain":".shangrila","type":"generic","tldmanager":"Shangri-La International Hotel Management Limited","domainpage":"https://www.iana.org/domains/root/db/shangrila.html"}
 {"domain":".sharp","type":"generic","tldmanager":"Sharp Corporation","domainpage":"https://www.iana.org/domains/root/db/sharp.html"}
 {"domain":".shaw","type":"generic","tldmanager":"Shaw Cablesystems G.P.","domainpage":"https://www.iana.org/domains/root/db/shaw.html"}
 {"domain":".shell","type":"generic","tldmanager":"Shell Information Technology International Inc","domainpage":"https://www.iana.org/domains/root/db/shell.html"}
@@ -1543,7 +1543,7 @@
 {"domain":".飞利浦","type":"generic","tldmanager":"Koninklijke Philips N.V.","domainpage":"https://www.iana.org/domains/root/db/xn--kcrx77d1x4a.html"}
 {"domain":".食品","type":"generic","tldmanager":"Amazon Registry Services, Inc.","domainpage":"https://www.iana.org/domains/root/db/xn--jvr189m.html"}
 {"domain":".餐厅","type":"generic","tldmanager":"Internet DotTrademark Organisation Limited","domainpage":"https://www.iana.org/domains/root/db/xn--imr513n.html"}
-{"domain":".香格里拉","type":"generic","tldmanager":"Shangri‐La International Hotel Management Limited","domainpage":"https://www.iana.org/domains/root/db/xn--5su34j936bgsg.html"}
+{"domain":".香格里拉","type":"generic","tldmanager":"Shangri-La International Hotel Management Limited","domainpage":"https://www.iana.org/domains/root/db/xn--5su34j936bgsg.html"}
 {"domain":".香港","type":"country-code","tldmanager":"Hong Kong Internet Registration Corporation Ltd.","domainpage":"https://www.iana.org/domains/root/db/xn--j6w193g.html"}
 {"domain":".닷넷","type":"generic","tldmanager":"VeriSign Sarl","domainpage":"https://www.iana.org/domains/root/db/xn--t60b56a.html"}
 {"domain":".닷컴","type":"generic","tldmanager":"VeriSign Sarl","domainpage":"https://www.iana.org/domains/root/db/xn--mk1bu44c.html"}
