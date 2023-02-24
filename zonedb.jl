@@ -1030,7 +1030,7 @@
 {"domain":".pwc","type":"generic","tldmanager":"PricewaterhouseCoopers LLP","domainpage":"https://www.iana.org/domains/root/db/pwc.html"}
 {"domain":".py","type":"country-code","tldmanager":"NIC-PY","domainpage":"https://www.iana.org/domains/root/db/py.html"}
 {"domain":".qa","type":"country-code","tldmanager":"Communications Regulatory Authority","domainpage":"https://www.iana.org/domains/root/db/qa.html"}
-{"domain":".qpon","type":"generic","tldmanager":"DOTQPON LLC.","domainpage":"https://www.iana.org/domains/root/db/qpon.html"}
+{"domain":".qpon","type":"generic","tldmanager":"dotCOOL, Inc.","domainpage":"https://www.iana.org/domains/root/db/qpon.html"}
 {"domain":".quebec","type":"generic","tldmanager":"PointQuébec Inc","domainpage":"https://www.iana.org/domains/root/db/quebec.html"}
 {"domain":".quest","type":"generic","tldmanager":"XYZ.COM LLC","domainpage":"https://www.iana.org/domains/root/db/quest.html"}
 {"domain":".qvc","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/qvc.html"}
