@@ -785,7 +785,7 @@
 {"domain":".lv","type":"country-code","tldmanager":"University of Latvia\nInstitute of Mathematics and Computer Science\nDepartment of Network Solutions (DNS)","domainpage":"https://www.iana.org/domains/root/db/lv.html"}
 {"domain":".ly","type":"country-code","tldmanager":"General Post and Telecommunication Company","domainpage":"https://www.iana.org/domains/root/db/ly.html"}
 {"domain":".ma","type":"country-code","tldmanager":"Agence Nationale de Réglementation des Télécommunications (ANRT)","domainpage":"https://www.iana.org/domains/root/db/ma.html"}
-{"domain":".macys","type":"generic","tldmanager":"Macys, Inc.","domainpage":"https://www.iana.org/domains/root/db/macys.html"}
+{"domain":".macys","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/macys.html"}
 {"domain":".madrid","type":"generic","tldmanager":"Comunidad de Madrid","domainpage":"https://www.iana.org/domains/root/db/madrid.html"}
 {"domain":".maif","type":"generic","tldmanager":"Mutuelle Assurance Instituteur France (MAIF)","domainpage":"https://www.iana.org/domains/root/db/maif.html"}
 {"domain":".maison","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/maison.html"}
