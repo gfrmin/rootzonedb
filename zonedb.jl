@@ -712,7 +712,7 @@
 {"domain":".ky","type":"country-code","tldmanager":"Utility Regulation and Competition Office (OfReg)","domainpage":"https://www.iana.org/domains/root/db/ky.html"}
 {"domain":".kyoto","type":"generic","tldmanager":"Academic Institution: Kyoto Jyoho Gakuen","domainpage":"https://www.iana.org/domains/root/db/kyoto.html"}
 {"domain":".kz","type":"country-code","tldmanager":"Association of IT Companies of Kazakhstan","domainpage":"https://www.iana.org/domains/root/db/kz.html"}
-{"domain":".la","type":"country-code","tldmanager":"Lao National Internet Center (LANIC),\nMinistry of Technology and Communications","domainpage":"https://www.iana.org/domains/root/db/la.html"}
+{"domain":".la","type":"country-code","tldmanager":"Lao National Internet Committee (LANIC), Ministry of Posts and Telecommunications","domainpage":"https://www.iana.org/domains/root/db/la.html"}
 {"domain":".lacaixa","type":"generic","tldmanager":"CAIXA D'ESTALVIS I PENSIONS DE BARCELONA","domainpage":"https://www.iana.org/domains/root/db/lacaixa.html"}
 {"domain":".ladbrokes","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/ladbrokes.html"}
 {"domain":".lamborghini","type":"generic","tldmanager":"Automobili Lamborghini S.p.A.","domainpage":"https://www.iana.org/domains/root/db/lamborghini.html"}
@@ -1467,7 +1467,7 @@
 {"domain":".ලංකා","type":"country-code","tldmanager":"LK Domain Registry","domainpage":"https://www.iana.org/domains/root/db/xn--fzc2c9e2c.html"}
 {"domain":".คอม","type":"generic","tldmanager":"VeriSign Sarl","domainpage":"https://www.iana.org/domains/root/db/xn--42c2d9a.html"}
 {"domain":".ไทย","type":"country-code","tldmanager":"Thai Network Information Center Foundation","domainpage":"https://www.iana.org/domains/root/db/xn--o3cw4h.html"}
-{"domain":".ລາວ","type":"country-code","tldmanager":"Lao National Internet Center (LANIC), Ministry of Technology and Communications","domainpage":"https://www.iana.org/domains/root/db/xn--q7ce6a.html"}
+{"domain":".ລາວ","type":"country-code","tldmanager":"Lao National Internet Center (LANIC)","domainpage":"https://www.iana.org/domains/root/db/xn--q7ce6a.html"}
 {"domain":".გე","type":"country-code","tldmanager":"Information Technologies Development Center (ITDC)","domainpage":"https://www.iana.org/domains/root/db/xn--node.html"}
 {"domain":".みんな","type":"generic","tldmanager":"Charleston Road Registry Inc.","domainpage":"https://www.iana.org/domains/root/db/xn--q9jyb4c.html"}
 {"domain":".アマゾン","type":"generic","tldmanager":"Amazon Registry Services, Inc.","domainpage":"https://www.iana.org/domains/root/db/xn--cckwcxetd.html"}
