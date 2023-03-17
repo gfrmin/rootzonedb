@@ -751,7 +751,7 @@
 {"domain":".limited","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/limited.html"}
 {"domain":".limo","type":"generic","tldmanager":"Binky Moon, LLC","domainpage":"https://www.iana.org/domains/root/db/limo.html"}
 {"domain":".lincoln","type":"generic","tldmanager":"Ford Motor Company","domainpage":"https://www.iana.org/domains/root/db/lincoln.html"}
-{"domain":".linde","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/linde.html"}
+{"domain":".linde","type":"generic","tldmanager":"Linde Aktiengesellschaft","domainpage":"https://www.iana.org/domains/root/db/linde.html"}
 {"domain":".link","type":"generic","tldmanager":"Nova Registry Ltd.","domainpage":"https://www.iana.org/domains/root/db/link.html"}
 {"domain":".lipsy","type":"generic","tldmanager":"Lipsy Ltd","domainpage":"https://www.iana.org/domains/root/db/lipsy.html"}
 {"domain":".live","type":"generic","tldmanager":"Dog Beach, LLC","domainpage":"https://www.iana.org/domains/root/db/live.html"}
