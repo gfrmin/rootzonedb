@@ -677,7 +677,7 @@
 {"domain":".jp","type":"country-code","tldmanager":"Japan Registry Services Co., Ltd.","domainpage":"https://www.iana.org/domains/root/db/jp.html"}
 {"domain":".jpmorgan","type":"generic","tldmanager":"JPMorgan Chase Bank, National Association","domainpage":"https://www.iana.org/domains/root/db/jpmorgan.html"}
 {"domain":".jprs","type":"generic","tldmanager":"Japan Registry Services Co., Ltd.","domainpage":"https://www.iana.org/domains/root/db/jprs.html"}
-{"domain":".juegos","type":"generic","tldmanager":"UNR Corp.","domainpage":"https://www.iana.org/domains/root/db/juegos.html"}
+{"domain":".juegos","type":"generic","tldmanager":"Internet Naming Company LLC","domainpage":"https://www.iana.org/domains/root/db/juegos.html"}
 {"domain":".juniper","type":"generic","tldmanager":"JUNIPER NETWORKS, INC.","domainpage":"https://www.iana.org/domains/root/db/juniper.html"}
 {"domain":".kaufen","type":"generic","tldmanager":"Dog Beach, LLC","domainpage":"https://www.iana.org/domains/root/db/kaufen.html"}
 {"domain":".kddi","type":"generic","tldmanager":"KDDI CORPORATION","domainpage":"https://www.iana.org/domains/root/db/kddi.html"}
