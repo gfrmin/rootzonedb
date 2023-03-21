@@ -1490,7 +1490,7 @@
 {"domain":".信息","type":"generic","tldmanager":"Beijing Tele-info Network Technology Co., Ltd.","domainpage":"https://www.iana.org/domains/root/db/xn--vuq861b.html"}
 {"domain":".健康","type":"generic","tldmanager":"Stable Tone Limited","domainpage":"https://www.iana.org/domains/root/db/xn--nyqy26a.html"}
 {"domain":".八卦","type":"generic","tldmanager":"Zodiac Gemini Ltd","domainpage":"https://www.iana.org/domains/root/db/xn--45q11c.html"}
-{"domain":".公司","type":"generic","tldmanager":"China Internet Network Information Center(CNNIC)","domainpage":"https://www.iana.org/domains/root/db/xn--55qx5d.html"}
+{"domain":".公司","type":"generic","tldmanager":"Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）","domainpage":"https://www.iana.org/domains/root/db/xn--55qx5d.html"}
 {"domain":".公益","type":"generic","tldmanager":"China Organizational Name Administration Center","domainpage":"https://www.iana.org/domains/root/db/xn--55qw42g.html"}
 {"domain":".台湾","type":"country-code","tldmanager":"Taiwan Network Information Center (TWNIC)","domainpage":"https://www.iana.org/domains/root/db/xn--kprw13d.html"}
 {"domain":".台灣","type":"country-code","tldmanager":"Taiwan Network Information Center (TWNIC)","domainpage":"https://www.iana.org/domains/root/db/xn--kpry57d.html"}
@@ -1532,7 +1532,7 @@
 {"domain":".网址","type":"generic","tldmanager":"KNET Co., Ltd","domainpage":"https://www.iana.org/domains/root/db/xn--ses554g.html"}
 {"domain":".网店","type":"generic","tldmanager":"Zodiac Taurus Ltd.","domainpage":"https://www.iana.org/domains/root/db/xn--hxt814e.html"}
 {"domain":".网站","type":"generic","tldmanager":"Global Website TLD Asia Limited","domainpage":"https://www.iana.org/domains/root/db/xn--5tzm5g.html"}
-{"domain":".网络","type":"generic","tldmanager":"China Internet Network Information Center(CNNIC)","domainpage":"https://www.iana.org/domains/root/db/xn--io0a7i.html"}
+{"domain":".网络","type":"generic","tldmanager":"Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）","domainpage":"https://www.iana.org/domains/root/db/xn--io0a7i.html"}
 {"domain":".联通","type":"generic","tldmanager":"China United Network Communications Corporation Limited","domainpage":"https://www.iana.org/domains/root/db/xn--8y0a063a.html"}
 {"domain":".诺基亚","type":"generic","tldmanager":"Not assigned","domainpage":"https://www.iana.org/domains/root/db/xn--jlq61u9w7b.html"}
 {"domain":".谷歌","type":"generic","tldmanager":"Charleston Road Registry Inc.","domainpage":"https://www.iana.org/domains/root/db/xn--flw351e.html"}
